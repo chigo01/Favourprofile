@@ -63,21 +63,9 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-All code written by [Eki Victory]([https://github.com/chigo01]) and [Williams Agada](https://github.com/Hhkwairanga).
+All code written by [Favour Baruch]([https://github.com/chigo01]) and [Hhkwairanga](https://github.com/Hhkwairanga).
 
 ## Authors
-
-👤 **Eki Victory**
-
-- GitHub: [@ekivictory1](https://github.com/ekivictory1)
-- Twitter: [@victory_eki](https://twitter.com/victory_eki)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eki-victory-371263134)
-
-👤 **Williams Agada**
-
-- GitHub: [@Williams1010](https://github.com/Williams1010)
-- Twitter: [@williamsagada](https://twitter.com/williamsagada)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/agada-williams-a16541196)
 
 **Favour & Hhkwairanga @ ALX software engineering programme 2022.**
 
